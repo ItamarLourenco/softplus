@@ -11,5 +11,7 @@
 </style>
 </head>
 <body>
+<a href="http://54.200.133.35/softplus/">
 <img src="banner.gif" />
+</a>
 </body>
